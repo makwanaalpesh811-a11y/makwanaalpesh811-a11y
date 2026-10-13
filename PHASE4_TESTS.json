@@ -1,0 +1,361 @@
+{
+  "syntax_ok": 72,
+  "syntax_fail": 0,
+  "syntax_errors": [],
+  "frontmatter_ok": 118,
+  "frontmatter_fail": 0,
+  "frontmatter_errors": [],
+  "link_ok": 28,
+  "link_fail": 10,
+  "link_errors": [
+    {
+      "file": "AUDIT_REPORT.md",
+      "link": "url",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/url"
+    },
+    {
+      "file": "ai-image-gen-skill/skills/gif-search/SKILL.md",
+      "link": "url",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/ai-image-gen-skill/skills/gif-search/url"
+    },
+    {
+      "file": "creative-design-skill/skills/ascii-video/references/architecture.md",
+      "link": "r, f, t",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/creative-design-skill/skills/ascii-video/references/r, f, t"
+    },
+    {
+      "file": "creative-design-skill/skills/ascii-video/references/composition.md",
+      "link": "r, feat, t, r.S",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/creative-design-skill/skills/ascii-video/references/r, feat, t, r.S"
+    },
+    {
+      "file": "creative-design-skill/skills/ascii-video/references/effects.md",
+      "link": "g, f, t, S",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/creative-design-skill/skills/ascii-video/references/g, f, t, S"
+    },
+    {
+      "file": "creative-design-skill/skills/ascii-video/references/effects.md",
+      "link": "g, f, t, S",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/creative-design-skill/skills/ascii-video/references/g, f, t, S"
+    },
+    {
+      "file": "creative-design-skill/skills/ascii-video/references/effects.md",
+      "link": "g, f, t, S",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/creative-design-skill/skills/ascii-video/references/g, f, t, S"
+    },
+    {
+      "file": "creative-design-skill/skills/ascii-video/references/effects.md",
+      "link": "g, f, t, S",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/creative-design-skill/skills/ascii-video/references/g, f, t, S"
+    },
+    {
+      "file": "creative-design-skill/skills/ascii-video/references/scenes.md",
+      "link": "r, feat, t, r.S",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/creative-design-skill/skills/ascii-video/references/r, feat, t, r.S"
+    },
+    {
+      "file": "creative-design-skill/skills/ascii-video/references/shaders.md",
+      "link": "af, bf",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/creative-design-skill/skills/ascii-video/references/af, bf"
+    }
+  ],
+  "secret_found": 2,
+  "secret_examples": [
+    {
+      "file": "PHASE6_SECURITY.json",
+      "line": 61,
+      "type": "telegram_bot",
+      "context": "      \"matched\": \"1234567890:AAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\"",
+      "example": true
+    },
+    {
+      "file": "telegram-bot-skill/skills/telegram-standalone-bot/SKILL.md",
+      "line": 30,
+      "type": "telegram_bot",
+      "context": "Ask user to message the token directly (not a screenshot \u2014 BotFather masks with asterisks after copy",
+      "example": true
+    }
+  ],
+  "dangerous_cmds": 46,
+  "dangerous_examples": [
+    {
+      "file": "setup_shared.sh",
+      "line": 127,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "youtube-agent-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "instagram-agent-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "youtube-trading-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "delta-trading-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "delta-trading-skill/skills/paper-trade-simulator/SKILL.md",
+      "line": 97,
+      "type": "os_system",
+      "context": "- **UI: terminal, `os.system('clear')` + `print` + `sys.stdout.flush()` \u2014 for clear/refresh ONLY. ANSI COLOR codes ARE O"
+    },
+    {
+      "file": "delta-trading-skill/skills/paper-trade-simulator/SKILL.md",
+      "line": 97,
+      "type": "os_system",
+      "context": "- **UI: terminal, `os.system('clear')` + `print` + `sys.stdout.flush()` \u2014 for clear/refresh ONLY. ANSI COLOR codes ARE O"
+    },
+    {
+      "file": "delta-trading-skill/skills/paper-trade-simulator/SKILL.md",
+      "line": 97,
+      "type": "os_system",
+      "context": "- **UI: terminal, `os.system('clear')` + `print` + `sys.stdout.flush()` \u2014 for clear/refresh ONLY. ANSI COLOR codes ARE O"
+    },
+    {
+      "file": "delta-trading-skill/skills/paper-trade-simulator/SKILL.md",
+      "line": 97,
+      "type": "os_system",
+      "context": "- **UI: terminal, `os.system('clear')` + `print` + `sys.stdout.flush()` \u2014 for clear/refresh ONLY. ANSI COLOR codes ARE O"
+    },
+    {
+      "file": "delta-trading-skill/skills/paper-trade-simulator/SKILL.md",
+      "line": 242,
+      "type": "os_system",
+      "context": "5. Rewrite dashboard: `\\x1b[H` + per-line `\\x1b[2K<line.ljust(max_width)>\\n`. No `os.system('clear')`, no `print()`, no "
+    },
+    {
+      "file": "delta-trading-skill/skills/paper-trade-simulator/SKILL.md",
+      "line": 341,
+      "type": "os_system",
+      "context": "- **Terminal UI on Termux: `os.system('clear')` + `print` is the ONLY reliable loop.** Build the whole dashboard as a li"
+    },
+    {
+      "file": "delta-trading-skill/skills/paper-trade-simulator/SKILL.md",
+      "line": 341,
+      "type": "os_system",
+      "context": "- **Terminal UI on Termux: `os.system('clear')` + `print` is the ONLY reliable loop.** Build the whole dashboard as a li"
+    },
+    {
+      "file": "delta-trading-skill/skills/paper-trade-simulator/SKILL.md",
+      "line": 341,
+      "type": "os_system",
+      "context": "- **Terminal UI on Termux: `os.system('clear')` + `print` is the ONLY reliable loop.** Build the whole dashboard as a li"
+    },
+    {
+      "file": "delta-trading-skill/skills/paper-trade-simulator/SKILL.md",
+      "line": 415,
+      "type": "os_system",
+      "context": "- **UI: terminal, single screen, `os.system('clear')` + print + flush.** NOT browser, NOT MD append log, NOT ANSI escape"
+    },
+    {
+      "file": "delta-trading-skill/skills/paper-trade-simulator/SKILL.md",
+      "line": 415,
+      "type": "os_system",
+      "context": "- **UI: terminal, single screen, `os.system('clear')` + print + flush.** NOT browser, NOT MD append log, NOT ANSI escape"
+    },
+    {
+      "file": "hermes-agent-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "hermes-agent-skill/skills/hermes-agent/SKILL.md",
+      "line": 49,
+      "type": "curl_pipe_bash",
+      "context": "curl -fsSL https://hermes-agent.nousresearch.com/install.sh | bash"
+    },
+    {
+      "file": "hermes-agent-skill/skills/computer-use/SKILL.md",
+      "line": 287,
+      "type": "curl_pipe_bash",
+      "context": "| `blocked pattern in type text` | You tried to `type` a shell command matching the dangerous-pattern block list (`curl "
+    },
+    {
+      "file": "claude-code-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "codex-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "opencode-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "github-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "github-skill/skills/requesting-code-review/SKILL.md",
+      "line": 59,
+      "type": "shell_true",
+      "context": "git diff --cached | grep \"^+\" | grep -E \"os\\.system\\(|subprocess.*shell=True\""
+    },
+    {
+      "file": "github-skill/skills/requesting-code-review/SKILL.md",
+      "line": 248,
+      "type": "os_system",
+      "context": "os.system(f\"ls {user_input}\")"
+    },
+    {
+      "file": "telegram-bot-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "video-localization-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "ai-image-gen-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "ai-image-gen-skill/skills/ai-image-gen-termux/SKILL.md",
+      "line": 140,
+      "type": "curl_pipe_bash",
+      "context": "- **AWS CLI v2 install script requires glibc** \u2014 Termux uses bionic libc. `curl awscli | bash` will download but the res"
+    },
+    {
+      "file": "aws-free-tier-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "document-tools-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "research-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "notion-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "notion-skill/skills/notion/SKILL.md",
+      "line": 39,
+      "type": "curl_pipe_bash",
+      "context": "curl -fsSL https://ntn.dev | bash"
+    },
+    {
+      "file": "google-workspace-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "obsidian-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "email-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "education-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "apple-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "creative-design-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "maps-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "x-agent-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "x-agent-skill/skills/xurl/SKILL.md",
+      "line": 59,
+      "type": "curl_pipe_bash",
+      "context": "curl -fsSL https://raw.githubusercontent.com/xdevplatform/xurl/main/install.sh | bash"
+    },
+    {
+      "file": "reddit-agent-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "audio-tools-skill/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "makwanaalpesh811-a11y/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    },
+    {
+      "file": "_shared/SECURITY.md",
+      "line": 17,
+      "type": "curl_pipe_bash",
+      "context": "- Official installers (e.g., `curl | bash`) are documented with source URLs."
+    }
+  ],
+  "scripts_tested": 0,
+  "scripts_failed": 0,
+  "script_errors": []
+}

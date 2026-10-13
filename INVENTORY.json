@@ -1,0 +1,1295 @@
+{
+  "repos": {
+    "ai-image-gen-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/ai-image-gen-skill",
+      "skills": [
+        {
+          "path": "skills/ai-image-gen-termux/SKILL.md",
+          "size": 8696
+        },
+        {
+          "path": "skills/mobile-ai-via-colab/SKILL.md",
+          "size": 7080
+        },
+        {
+          "path": "skills/image-search-mcp/SKILL.md",
+          "size": 820
+        },
+        {
+          "path": "skills/gif-search/SKILL.md",
+          "size": 2720
+        }
+      ],
+      "files": {
+        "scripts": 0,
+        "refs": 2,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 8,
+        "size": 29141
+      }
+    },
+    "apple-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/apple-skill",
+      "skills": [
+        {
+          "path": "skills/apple-notes/SKILL.md",
+          "size": 2394
+        },
+        {
+          "path": "skills/apple-reminders/SKILL.md",
+          "size": 3606
+        },
+        {
+          "path": "skills/findmy/SKILL.md",
+          "size": 3709
+        },
+        {
+          "path": "skills/imessage/SKILL.md",
+          "size": 2442
+        }
+      ],
+      "files": {
+        "scripts": 0,
+        "refs": 1,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 7,
+        "size": 17586
+      }
+    },
+    "audio-tools-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/audio-tools-skill",
+      "skills": [
+        {
+          "path": "skills/songsee/SKILL.md",
+          "size": 2336
+        }
+      ],
+      "files": {
+        "scripts": 0,
+        "refs": 1,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 4,
+        "size": 7586
+      }
+    },
+    "aws-free-tier-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/aws-free-tier-skill",
+      "skills": [
+        {
+          "path": "skills/aws-bedrock-free-tier/SKILL.md",
+          "size": 7900
+        },
+        {
+          "path": "skills/aws-free-ai-access/SKILL.md",
+          "size": 6575
+        },
+        {
+          "path": "skills/aws-free-tier/SKILL.md",
+          "size": 5031
+        }
+      ],
+      "files": {
+        "scripts": 0,
+        "refs": 1,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 6,
+        "size": 25008
+      }
+    },
+    "claude-code-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/claude-code-skill",
+      "skills": [
+        {
+          "path": "skills/claude-code/SKILL.md",
+          "size": 34281
+        }
+      ],
+      "files": {
+        "scripts": 0,
+        "refs": 1,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 4,
+        "size": 39553
+      }
+    },
+    "codex-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/codex-skill",
+      "skills": [
+        {
+          "path": "skills/codex/SKILL.md",
+          "size": 5738
+        }
+      ],
+      "files": {
+        "scripts": 0,
+        "refs": 1,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 4,
+        "size": 10950
+      }
+    },
+    "creative-design-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/creative-design-skill",
+      "skills": [
+        {
+          "path": "skills/architecture-diagram/SKILL.md",
+          "size": 5830
+        },
+        {
+          "path": "skills/ascii-video/SKILL.md",
+          "size": 15011
+        },
+        {
+          "path": "skills/baoyu-infographic/SKILL.md",
+          "size": 10434
+        },
+        {
+          "path": "skills/claude-design/SKILL.md",
+          "size": 25117
+        },
+        {
+          "path": "skills/design-md/SKILL.md",
+          "size": 8477
+        },
+        {
+          "path": "skills/humanizer/SKILL.md",
+          "size": 34463
+        },
+        {
+          "path": "skills/manim-video/SKILL.md",
+          "size": 12150
+        },
+        {
+          "path": "skills/p5js/SKILL.md",
+          "size": 27534
+        },
+        {
+          "path": "skills/popular-web-designs/SKILL.md",
+          "size": 9722
+        },
+        {
+          "path": "skills/songwriting-and-ai-music/SKILL.md",
+          "size": 10963
+        }
+      ],
+      "files": {
+        "scripts": 5,
+        "refs": 137,
+        "templates": 2,
+        "tests": 0,
+        "readmes": 4,
+        "licenses": 2,
+        "ci": 0,
+        "total": 157,
+        "size": 1640970
+      }
+    },
+    "delta-trading-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/delta-trading-skill",
+      "skills": [
+        {
+          "path": "skills/delta-live-order-execution/SKILL.md",
+          "size": 14970
+        },
+        {
+          "path": "skills/delta-market-refresh-rules/SKILL.md",
+          "size": 1124
+        },
+        {
+          "path": "skills/delta-mcp-india-readonly/SKILL.md",
+          "size": 8378
+        },
+        {
+          "path": "skills/paper-trade-simulator/SKILL.md",
+          "size": 61381
+        },
+        {
+          "path": "skills/signal-bot-matplotlib/SKILL.md",
+          "size": 13084
+        },
+        {
+          "path": "skills/tredalgo-signal-bot/SKILL.md",
+          "size": 13616
+        },
+        {
+          "path": "skills/stocks/SKILL.md",
+          "size": 2747
+        },
+        {
+          "path": "skills/stocks/delta-market-analysis/SKILL.md",
+          "size": 7288
+        },
+        {
+          "path": "skills/hyperliquid/SKILL.md",
+          "size": 6925
+        },
+        {
+          "path": "skills/forex-news/SKILL.md",
+          "size": 1917
+        },
+        {
+          "path": "skills/strategy-backtest-verify/SKILL.md",
+          "size": 8907
+        },
+        {
+          "path": "skills/delta-tick-candles/SKILL.md",
+          "size": 10677
+        },
+        {
+          "path": "skills/ema200-trendline-signal/SKILL.md",
+          "size": 6123
+        },
+        {
+          "path": "skills/hermes-crypto-grid-backtest/SKILL.md",
+          "size": 12086
+        },
+        {
+          "path": "skills/mcp-public-market-setup/SKILL.md",
+          "size": 1560
+        }
+      ],
+      "files": {
+        "scripts": 8,
+        "refs": 11,
+        "templates": 1,
+        "tests": 1,
+        "readmes": 2,
+        "licenses": 1,
+        "ci": 0,
+        "total": 41,
+        "size": 1080581
+      }
+    },
+    "document-tools-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/document-tools-skill",
+      "skills": [
+        {
+          "path": "skills/docx/SKILL.md",
+          "size": 10395
+        },
+        {
+          "path": "skills/pdf/SKILL.md",
+          "size": 12489
+        },
+        {
+          "path": "skills/powerpoint/SKILL.md",
+          "size": 10781
+        },
+        {
+          "path": "skills/xlsx/SKILL.md",
+          "size": 9655
+        },
+        {
+          "path": "skills/document-to-action-items/SKILL.md",
+          "size": 3910
+        },
+        {
+          "path": "skills/meeting-action-items/SKILL.md",
+          "size": 3808
+        },
+        {
+          "path": "skills/excel-author/SKILL.md",
+          "size": 8818
+        },
+        {
+          "path": "skills/pdf-read-ocr/SKILL.md",
+          "size": 3254
+        },
+        {
+          "path": "skills/teams-meeting-pipeline/SKILL.md",
+          "size": 7206
+        }
+      ],
+      "files": {
+        "scripts": 40,
+        "refs": 6,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 5,
+        "ci": 0,
+        "total": 61,
+        "size": 377791
+      }
+    },
+    "education-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/education-skill",
+      "skills": [
+        {
+          "path": "skills/teacher-mode/SKILL.md",
+          "size": 3005
+        }
+      ],
+      "files": {
+        "scripts": 0,
+        "refs": 2,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 5,
+        "size": 15401
+      }
+    },
+    "email-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/email-skill",
+      "skills": [
+        {
+          "path": "skills/email-inbox-triage/SKILL.md",
+          "size": 4057
+        },
+        {
+          "path": "skills/himalaya/SKILL.md",
+          "size": 7272
+        }
+      ],
+      "files": {
+        "scripts": 0,
+        "refs": 3,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 7,
+        "size": 26322
+      }
+    },
+    "github-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/github-skill",
+      "skills": [
+        {
+          "path": "skills/github/SKILL.md",
+          "size": 2446
+        },
+        {
+          "path": "skills/codebase-inspection/SKILL.md",
+          "size": 3612
+        },
+        {
+          "path": "skills/dogfood/SKILL.md",
+          "size": 6324
+        },
+        {
+          "path": "skills/node-inspect-debugger/SKILL.md",
+          "size": 10894
+        },
+        {
+          "path": "skills/python-debugpy/SKILL.md",
+          "size": 13347
+        },
+        {
+          "path": "skills/requesting-code-review/SKILL.md",
+          "size": 8423
+        },
+        {
+          "path": "skills/simplify-code/SKILL.md",
+          "size": 14696
+        },
+        {
+          "path": "skills/spike/SKILL.md",
+          "size": 8723
+        },
+        {
+          "path": "skills/systematic-debugging/SKILL.md",
+          "size": 14059
+        },
+        {
+          "path": "skills/test-driven-development/SKILL.md",
+          "size": 10300
+        }
+      ],
+      "files": {
+        "scripts": 2,
+        "refs": 17,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 31,
+        "size": 188973
+      }
+    },
+    "google-workspace-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/google-workspace-skill",
+      "skills": [
+        {
+          "path": "skills/google-workspace/SKILL.md",
+          "size": 13670
+        }
+      ],
+      "files": {
+        "scripts": 4,
+        "refs": 3,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 10,
+        "size": 94136
+      }
+    },
+    "hermes-agent-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/hermes-agent-skill",
+      "skills": [
+        {
+          "path": "skills/hermes-agent/SKILL.md",
+          "size": 13183
+        },
+        {
+          "path": "skills/hermes-agent-skill-authoring/SKILL.md",
+          "size": 14432
+        },
+        {
+          "path": "skills/port-external-skills/SKILL.md",
+          "size": 8913
+        },
+        {
+          "path": "skills/computer-use/SKILL.md",
+          "size": 15819
+        }
+      ],
+      "files": {
+        "scripts": 1,
+        "refs": 19,
+        "templates": 2,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 28,
+        "size": 167893
+      }
+    },
+    "instagram-agent-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/instagram-agent-skill",
+      "skills": [
+        {
+          "path": "skills/instagram-auto-upload/SKILL.md",
+          "size": 9047
+        },
+        {
+          "path": "skills/ig-audit/SKILL.md",
+          "size": 4539
+        },
+        {
+          "path": "skills/ig-caption/SKILL.md",
+          "size": 4576
+        },
+        {
+          "path": "skills/ig-carousel/SKILL.md",
+          "size": 4096
+        },
+        {
+          "path": "skills/ig-comment/SKILL.md",
+          "size": 4299
+        },
+        {
+          "path": "skills/ig-dm/SKILL.md",
+          "size": 4640
+        },
+        {
+          "path": "skills/ig-hashtag-strategist/SKILL.md",
+          "size": 4336
+        },
+        {
+          "path": "skills/ig-hook-extractor/SKILL.md",
+          "size": 3916
+        },
+        {
+          "path": "skills/ig-human/SKILL.md",
+          "size": 5108
+        },
+        {
+          "path": "skills/ig-plan/SKILL.md",
+          "size": 3947
+        },
+        {
+          "path": "skills/ig-profile/SKILL.md",
+          "size": 3369
+        },
+        {
+          "path": "skills/ig-reel/SKILL.md",
+          "size": 6433
+        },
+        {
+          "path": "skills/ig-reply/SKILL.md",
+          "size": 3968
+        },
+        {
+          "path": "skills/ig-repurpose/SKILL.md",
+          "size": 3386
+        },
+        {
+          "path": "skills/ig-story/SKILL.md",
+          "size": 4318
+        },
+        {
+          "path": "skills/ig-viral/SKILL.md",
+          "size": 6806
+        }
+      ],
+      "files": {
+        "scripts": 6,
+        "refs": 4,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 31,
+        "size": 194726
+      }
+    },
+    "makwanaalpesh811-a11y": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/makwanaalpesh811-a11y",
+      "skills": [],
+      "files": {
+        "scripts": 0,
+        "refs": 1,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 3,
+        "size": 9363
+      }
+    },
+    "maps-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/maps-skill",
+      "skills": [
+        {
+          "path": "skills/maps/SKILL.md",
+          "size": 6705
+        }
+      ],
+      "files": {
+        "scripts": 1,
+        "refs": 1,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 5,
+        "size": 58583
+      }
+    },
+    "notion-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/notion-skill",
+      "skills": [
+        {
+          "path": "skills/notion/SKILL.md",
+          "size": 14629
+        }
+      ],
+      "files": {
+        "scripts": 0,
+        "refs": 2,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 5,
+        "size": 22877
+      }
+    },
+    "obsidian-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/obsidian-skill",
+      "skills": [
+        {
+          "path": "skills/obsidian/SKILL.md",
+          "size": 3092
+        }
+      ],
+      "files": {
+        "scripts": 0,
+        "refs": 1,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 4,
+        "size": 8327
+      }
+    },
+    "opencode-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/opencode-skill",
+      "skills": [
+        {
+          "path": "skills/opencode/SKILL.md",
+          "size": 7259
+        }
+      ],
+      "files": {
+        "scripts": 0,
+        "refs": 1,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 4,
+        "size": 12493
+      }
+    },
+    "reddit-agent-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/reddit-agent-skill",
+      "skills": [
+        {
+          "path": "skills/reddit-reading/SKILL.md",
+          "size": 6279
+        }
+      ],
+      "files": {
+        "scripts": 1,
+        "refs": 1,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 5,
+        "size": 25472
+      }
+    },
+    "research-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/research-skill",
+      "skills": [
+        {
+          "path": "skills/arxiv/SKILL.md",
+          "size": 10061
+        },
+        {
+          "path": "skills/competitor-news-monitor/SKILL.md",
+          "size": 4618
+        },
+        {
+          "path": "skills/grounded-citations/SKILL.md",
+          "size": 12434
+        },
+        {
+          "path": "skills/llm-wiki/SKILL.md",
+          "size": 20121
+        },
+        {
+          "path": "skills/rss-feeds/SKILL.md",
+          "size": 4557
+        },
+        {
+          "path": "skills/blocked-page-recovery/SKILL.md",
+          "size": 5156
+        }
+      ],
+      "files": {
+        "scripts": 5,
+        "refs": 3,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 16,
+        "size": 117585
+      }
+    },
+    "telegram-bot-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/telegram-bot-skill",
+      "skills": [
+        {
+          "path": "skills/telegram-gateway-setup/SKILL.md",
+          "size": 8689
+        },
+        {
+          "path": "skills/telegram-standalone-bot/SKILL.md",
+          "size": 16925
+        }
+      ],
+      "files": {
+        "scripts": 0,
+        "refs": 1,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 5,
+        "size": 31047
+      }
+    },
+    "video-localization-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/video-localization-skill",
+      "skills": [
+        {
+          "path": "skills/video-localization/SKILL.md",
+          "size": 6102
+        },
+        {
+          "path": "skills/hindi-video-dub/SKILL.md",
+          "size": 2937
+        },
+        {
+          "path": "skills/anime-vlog-workflow/SKILL.md",
+          "size": 4373
+        },
+        {
+          "path": "skills/hindivlog-gen/SKILL.md",
+          "size": 6636
+        }
+      ],
+      "files": {
+        "scripts": 0,
+        "refs": 1,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 7,
+        "size": 25813
+      }
+    },
+    "x-agent-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/x-agent-skill",
+      "skills": [
+        {
+          "path": "skills/xurl/SKILL.md",
+          "size": 16345
+        }
+      ],
+      "files": {
+        "scripts": 0,
+        "refs": 1,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 4,
+        "size": 21577
+      }
+    },
+    "youtube-agent-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/youtube-agent-skill",
+      "skills": [
+        {
+          "path": "skills/youtube-content/youtube-colab-oauth/SKILL.md",
+          "size": 7565
+        },
+        {
+          "path": "skills/youtube-content-pipeline/SKILL.md",
+          "size": 5838
+        },
+        {
+          "path": "skills/youtube-full-access/SKILL.md",
+          "size": 3118
+        },
+        {
+          "path": "skills/youtube-strategy-analysis/SKILL.md",
+          "size": 348
+        },
+        {
+          "path": "skills/yt-chapters/SKILL.md",
+          "size": 1540
+        },
+        {
+          "path": "skills/yt-comment/SKILL.md",
+          "size": 2437
+        },
+        {
+          "path": "skills/yt-edit/SKILL.md",
+          "size": 1731
+        },
+        {
+          "path": "skills/yt-package/SKILL.md",
+          "size": 2352
+        },
+        {
+          "path": "skills/yt-plan/SKILL.md",
+          "size": 2211
+        },
+        {
+          "path": "skills/yt-retention/SKILL.md",
+          "size": 1812
+        },
+        {
+          "path": "skills/yt-shorts/SKILL.md",
+          "size": 1649
+        },
+        {
+          "path": "skills/yt-viral/SKILL.md",
+          "size": 1813
+        },
+        {
+          "path": "skills/yt-audit/SKILL.md",
+          "size": 2454
+        },
+        {
+          "path": "skills/yt-seo/SKILL.md",
+          "size": 2298
+        },
+        {
+          "path": "skills/yt-script/SKILL.md",
+          "size": 2691
+        }
+      ],
+      "files": {
+        "scripts": 6,
+        "refs": 1,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 25,
+        "size": 82201
+      }
+    },
+    "youtube-trading-skill": {
+      "path": "/data/data/com.termux/files/home/hermes-repos/youtube-trading-skill",
+      "skills": [
+        {
+          "path": "skills/youtube-trading/SKILL.md",
+          "size": 3137
+        },
+        {
+          "path": "skills/youtube-trading-strategy/SKILL.md",
+          "size": 564
+        },
+        {
+          "path": "skills/youtube-trading-workflow/SKILL.md",
+          "size": 502
+        }
+      ],
+      "files": {
+        "scripts": 0,
+        "refs": 4,
+        "templates": 0,
+        "tests": 0,
+        "readmes": 1,
+        "licenses": 1,
+        "ci": 0,
+        "total": 9,
+        "size": 19071
+      }
+    }
+  },
+  "stats": {
+    "repos": 27,
+    "skills": 118,
+    "scripts": 79,
+    "references": 227,
+    "templates": 5,
+    "tests": 1,
+    "readmes": 31,
+    "license_files": 32,
+    "ci_workflows": 0,
+    "size_bytes": 4351026,
+    "issues_count": 62,
+    "broken_links_count": 62
+  },
+  "broken_links": [
+    {
+      "repo": "ai-image-gen-skill",
+      "skill_md": "skills/gif-search/SKILL.md",
+      "missing": "url",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/ai-image-gen-skill/skills/gif-search/url"
+    },
+    {
+      "repo": "aws-free-tier-skill",
+      "skill_md": "skills/aws-bedrock-free-tier/SKILL.md",
+      "missing": "~/.aws/bedrock_bearer.env",
+      "resolved": "/data/data/com.termux/files/home/.aws/bedrock_bearer.env"
+    },
+    {
+      "repo": "codex-skill",
+      "skill_md": "skills/codex/SKILL.md",
+      "missing": "~/.codex/auth.json",
+      "resolved": "/data/data/com.termux/files/home/.codex/auth.json"
+    },
+    {
+      "repo": "creative-design-skill",
+      "skill_md": "skills/architecture-diagram/SKILL.md",
+      "missing": "~/architecture-diagram.html",
+      "resolved": "/data/data/com.termux/files/home/architecture-diagram.html"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/paper-trade-simulator/SKILL.md",
+      "missing": "~/paper_trade/.lock",
+      "resolved": "/data/data/com.termux/files/home/paper_trade/.lock"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/paper-trade-simulator/SKILL.md",
+      "missing": "cd ~/paper_trade && termux-wake-lock && python3 -u terminal_dashboard.py",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/delta-trading-skill/skills/paper-trade-simulator/cd ~/paper_trade && termux-wake-lock && python3 -u terminal_dashboard.py"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/paper-trade-simulator/SKILL.md",
+      "missing": "~/paper_trade/.lock_v2",
+      "resolved": "/data/data/com.termux/files/home/paper_trade/.lock_v2"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/paper-trade-simulator/SKILL.md",
+      "missing": "cd ~/paper_trade && termux-wake-lock && python3 -u terminal_dashboard_v2.py",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/delta-trading-skill/skills/paper-trade-simulator/cd ~/paper_trade && termux-wake-lock && python3 -u terminal_dashboard_v2.py"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/signal-bot-matplotlib/SKILL.md",
+      "missing": "~/build_eth_multi_tf.py",
+      "resolved": "/data/data/com.termux/files/home/build_eth_multi_tf.py"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/tredalgo-signal-bot/SKILL.md",
+      "missing": "paper_trade/engine.py",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/delta-trading-skill/skills/tredalgo-signal-bot/paper_trade/engine.py"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/tredalgo-signal-bot/SKILL.md",
+      "missing": "paper_trade/engine.py",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/delta-trading-skill/skills/tredalgo-signal-bot/paper_trade/engine.py"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/tredalgo-signal-bot/SKILL.md",
+      "missing": "paper_trade/tredalgo_bot.py",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/delta-trading-skill/skills/tredalgo-signal-bot/paper_trade/tredalgo_bot.py"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/stocks/SKILL.md",
+      "missing": "\nSCRIPT=~/.hermes/skills/finance/stocks/scripts/stocks_client.py\npython $SCRIPT quote AAPL\n",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/delta-trading-skill/skills/stocks/\nSCRIPT=~/.hermes/skills/finance/stocks/scripts/stocks_client.py\npython $SCRIPT quote AAPL\n"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/stocks/SKILL.md",
+      "missing": "\npython ~/.hermes/skills/finance/stocks/scripts/stocks_client.py quote AAPL\n",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/delta-trading-skill/skills/stocks/\npython ~/.hermes/skills/finance/stocks/scripts/stocks_client.py quote AAPL\n"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/hyperliquid/SKILL.md",
+      "missing": "~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py",
+      "resolved": "/data/data/com.termux/files/home/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/hyperliquid/SKILL.md",
+      "missing": "bash\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py <command> [args]\n",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/delta-trading-skill/skills/hyperliquid/bash\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py <command> [args]\n"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/hyperliquid/SKILL.md",
+      "missing": "bash\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py dexs\n\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  markets --limit 15 --sort volume\n\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  spots --limit 15\n",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/delta-trading-skill/skills/hyperliquid/bash\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py dexs\n\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  markets --limit 15 --sort volume\n\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  spots --limit 15\n"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/hyperliquid/SKILL.md",
+      "missing": "bash\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  candles BTC --interval 1h --hours 72 --limit 48\n\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  funding BTC --hours 168 --limit 30\n",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/delta-trading-skill/skills/hyperliquid/bash\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  candles BTC --interval 1h --hours 72 --limit 48\n\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  funding BTC --hours 168 --limit 30\n"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/hyperliquid/SKILL.md",
+      "missing": "bash\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  l2 BTC --levels 10\n",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/delta-trading-skill/skills/hyperliquid/bash\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  l2 BTC --levels 10\n"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/hyperliquid/SKILL.md",
+      "missing": "bash\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  state 0xabc...\n\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  spot-balances\n",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/delta-trading-skill/skills/hyperliquid/bash\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  state 0xabc...\n\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  spot-balances\n"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/hyperliquid/SKILL.md",
+      "missing": "bash\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  fills 0xabc... --hours 72 --limit 25\n\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  orders --limit 25\n",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/delta-trading-skill/skills/hyperliquid/bash\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  fills 0xabc... --hours 72 --limit 25\n\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  orders --limit 25\n"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/hyperliquid/SKILL.md",
+      "missing": "bash\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  review 0xabc... --hours 72 --fills 50\n\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  review --coin BTC --hours 168\n",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/delta-trading-skill/skills/hyperliquid/bash\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  review 0xabc... --hours 72 --fills 50\n\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  review --coin BTC --hours 168\n"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/hyperliquid/SKILL.md",
+      "missing": "bash\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  export BTC --interval 1h --hours 168 --output ./btc-1h-7d.json\n\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  export BTC --interval 15m --hours 72 --end-time-ms 1760000000000\n",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/delta-trading-skill/skills/hyperliquid/bash\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  export BTC --interval 1h --hours 168 --output ./btc-1h-7d.json\n\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  export BTC --interval 15m --hours 72 --end-time-ms 1760000000000\n"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/hyperliquid/SKILL.md",
+      "missing": "bash\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  markets --limit 5\n",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/delta-trading-skill/skills/hyperliquid/bash\npython ~/.hermes/skills/blockchain/hyperliquid/scripts/hyperliquid_client.py \\\n  markets --limit 5\n"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/delta-tick-candles/SKILL.md",
+      "missing": "~/delta_candles/*.json",
+      "resolved": "/data/data/com.termux/files/home/delta_candles/*.json"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/delta-tick-candles/SKILL.md",
+      "missing": "~/candles_*.json",
+      "resolved": "/data/data/com.termux/files/home/candles_*.json"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/ema200-trendline-signal/SKILL.md",
+      "missing": "~/ema_tl_signal.py",
+      "resolved": "/data/data/com.termux/files/home/ema_tl_signal.py"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/ema200-trendline-signal/SKILL.md",
+      "missing": "~/ema_tl_signal.py",
+      "resolved": "/data/data/com.termux/files/home/ema_tl_signal.py"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/ema200-trendline-signal/SKILL.md",
+      "missing": "~/candles_btc.json",
+      "resolved": "/data/data/com.termux/files/home/candles_btc.json"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/ema200-trendline-signal/SKILL.md",
+      "missing": "~/candles_eth.json",
+      "resolved": "/data/data/com.termux/files/home/candles_eth.json"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/ema200-trendline-signal/SKILL.md",
+      "missing": "~/fetch_fresh.py",
+      "resolved": "/data/data/com.termux/files/home/fetch_fresh.py"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/ema200-trendline-signal/SKILL.md",
+      "missing": "~/fetch_eth.py",
+      "resolved": "/data/data/com.termux/files/home/fetch_eth.py"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/ema200-trendline-signal/SKILL.md",
+      "missing": "~/fetch_eth.py 30",
+      "resolved": "/data/data/com.termux/files/home/fetch_eth.py 30"
+    },
+    {
+      "repo": "delta-trading-skill",
+      "skill_md": "skills/ema200-trendline-signal/SKILL.md",
+      "missing": "python3 ~/ema_tl_signal.py",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/delta-trading-skill/skills/ema200-trendline-signal/python3 ~/ema_tl_signal.py"
+    },
+    {
+      "repo": "document-tools-skill",
+      "skill_md": "skills/excel-author/SKILL.md",
+      "missing": "./out/<name>.xlsx",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/document-tools-skill/skills/excel-author/out/<name>.xlsx"
+    },
+    {
+      "repo": "document-tools-skill",
+      "skill_md": "skills/excel-author/SKILL.md",
+      "missing": "./out/",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/document-tools-skill/skills/excel-author/out"
+    },
+    {
+      "repo": "email-skill",
+      "skill_md": "skills/himalaya/SKILL.md",
+      "missing": "~/.config/himalaya/config.toml",
+      "resolved": "/data/data/com.termux/files/home/.config/himalaya/config.toml"
+    },
+    {
+      "repo": "github-skill",
+      "skill_md": "skills/dogfood/SKILL.md",
+      "missing": "./dogfood-output",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/github-skill/skills/dogfood/dogfood-output"
+    },
+    {
+      "repo": "google-workspace-skill",
+      "skill_md": "skills/google-workspace/SKILL.md",
+      "missing": "bash\nGSETUP=\"python ${HERMES_HOME:-$HOME/.hermes}/skills/productivity/google-workspace/scripts/setup.py\"\n",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/google-workspace-skill/skills/google-workspace/bash\nGSETUP=\"python ${HERMES_HOME:-$HOME/.hermes}/skills/productivity/google-workspace/scripts/setup.py\"\n"
+    },
+    {
+      "repo": "google-workspace-skill",
+      "skill_md": "skills/google-workspace/SKILL.md",
+      "missing": "bash\nGAPI=\"python ${HERMES_HOME:-$HOME/.hermes}/skills/productivity/google-workspace/scripts/google_api.py\"\n",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/google-workspace-skill/skills/google-workspace/bash\nGAPI=\"python ${HERMES_HOME:-$HOME/.hermes}/skills/productivity/google-workspace/scripts/google_api.py\"\n"
+    },
+    {
+      "repo": "hermes-agent-skill",
+      "skill_md": "skills/hermes-agent/SKILL.md",
+      "missing": "hermes_cli/main.py",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/hermes-agent-skill/skills/hermes-agent/hermes_cli/main.py"
+    },
+    {
+      "repo": "hermes-agent-skill",
+      "skill_md": "skills/hermes-agent-skill-authoring/SKILL.md",
+      "missing": "~/.hermes/skills/<maybe-category>/<name>/SKILL.md",
+      "resolved": "/data/data/com.termux/files/home/.hermes/skills/<maybe-category>/<name>/SKILL.md"
+    },
+    {
+      "repo": "hermes-agent-skill",
+      "skill_md": "skills/computer-use/SKILL.md",
+      "missing": "~/.cua-driver/skills/cua-driver",
+      "resolved": "/data/data/com.termux/files/home/.cua-driver/skills/cua-driver"
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "skill_md": "skills/ig-audit/SKILL.md",
+      "missing": "~/.claude/instagram/log.md",
+      "resolved": "/data/data/com.termux/files/home/.claude/instagram/log.md"
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "skill_md": "skills/ig-hashtag-strategist/SKILL.md",
+      "missing": "../../references/hashtag-strategy.md",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/instagram-agent-skill/references/hashtag-strategy.md"
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "skill_md": "skills/ig-hook-extractor/SKILL.md",
+      "missing": "../../references/hook-formulas.md",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/instagram-agent-skill/references/hook-formulas.md"
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "skill_md": "skills/ig-hook-extractor/SKILL.md",
+      "missing": "../../references/hook-formulas.md",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/instagram-agent-skill/references/hook-formulas.md"
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "skill_md": "skills/ig-plan/SKILL.md",
+      "missing": "~/.claude/instagram/voice.md",
+      "resolved": "/data/data/com.termux/files/home/.claude/instagram/voice.md"
+    },
+    {
+      "repo": "maps-skill",
+      "skill_md": "skills/maps/SKILL.md",
+      "missing": "~/.hermes/skills/maps/scripts/maps_client.py",
+      "resolved": "/data/data/com.termux/files/home/.hermes/skills/maps/scripts/maps_client.py"
+    },
+    {
+      "repo": "maps-skill",
+      "skill_md": "skills/maps/SKILL.md",
+      "missing": "bash\nMAPS=~/.hermes/skills/maps/scripts/maps_client.py\n",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/maps-skill/skills/maps/bash\nMAPS=~/.hermes/skills/maps/scripts/maps_client.py\n"
+    },
+    {
+      "repo": "maps-skill",
+      "skill_md": "skills/maps/SKILL.md",
+      "missing": "bash\npython ~/.hermes/skills/maps/scripts/maps_client.py search \"Statue of Liberty\"\n# Should return lat ~40.689, lon ~-74.044\n\npython ~/.hermes/skills/maps/scripts/maps_client.py nearby --near \"Times Square\" --category restaurant --limit 3\n# Should return a list of restaurants within ~500m of Times Square\n",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/maps-skill/skills/maps/bash\npython ~/.hermes/skills/maps/scripts/maps_client.py search \"Statue of Liberty\"\n# Should return lat ~40.689, lon ~-74.044\n\npython ~/.hermes/skills/maps/scripts/maps_client.py nearby --near \"Times Square\" --category restaurant --limit 3\n# Should return a list of restaurants within ~500m of Times Square\n"
+    },
+    {
+      "repo": "obsidian-skill",
+      "skill_md": "skills/obsidian/SKILL.md",
+      "missing": "~/Documents/Obsidian Vault",
+      "resolved": "/data/data/com.termux/files/home/Documents/Obsidian Vault"
+    },
+    {
+      "repo": "research-skill",
+      "skill_md": "skills/competitor-news-monitor/SKILL.md",
+      "missing": "~/.hermes/competitor-watches/<watch-slug>.json",
+      "resolved": "/data/data/com.termux/files/home/.hermes/competitor-watches/<watch-slug>.json"
+    },
+    {
+      "repo": "research-skill",
+      "skill_md": "skills/grounded-citations/SKILL.md",
+      "missing": "bash\nS=~/.hermes/skills/research/grounded-citations/scripts/sources.py\n\npython \"$S\" reset                                  # start a clean ledger\npython \"$S\" add https://example.com/a --title \"A\"  # prints: [1]\npython \"$S\" add https://example.com/b --title \"B\"  # prints: [2]\npython \"$S\" list                                   # ledger table\npython \"$S\" render                                 # Sources: block\npython \"$S\" verify draft.md                        # catch bad citations\n",
+      "resolved": "/data/data/com.termux/files/home/hermes-repos/research-skill/skills/grounded-citations/bash\nS=~/.hermes/skills/research/grounded-citations/scripts/sources.py\n\npython \"$S\" reset                                  # start a clean ledger\npython \"$S\" add https:/example.com/a --title \"A\"  # prints: [1]\npython \"$S\" add https:/example.com/b --title \"B\"  # prints: [2]\npython \"$S\" list                                   # ledger table\npython \"$S\" render                                 # Sources: block\npython \"$S\" verify draft.md                        # catch bad citations\n"
+    },
+    {
+      "repo": "research-skill",
+      "skill_md": "skills/llm-wiki/SKILL.md",
+      "missing": "~/wiki",
+      "resolved": "/data/data/com.termux/files/home/wiki"
+    },
+    {
+      "repo": "x-agent-skill",
+      "skill_md": "skills/xurl/SKILL.md",
+      "missing": "~/.xurl",
+      "resolved": "/data/data/com.termux/files/home/.xurl"
+    },
+    {
+      "repo": "x-agent-skill",
+      "skill_md": "skills/xurl/SKILL.md",
+      "missing": "~/.xurl",
+      "resolved": "/data/data/com.termux/files/home/.xurl"
+    },
+    {
+      "repo": "x-agent-skill",
+      "skill_md": "skills/xurl/SKILL.md",
+      "missing": "~/.xurl",
+      "resolved": "/data/data/com.termux/files/home/.xurl"
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "skill_md": "skills/yt-comment/SKILL.md",
+      "missing": "~/.claude/youtube/voice.md",
+      "resolved": "/data/data/com.termux/files/home/.claude/youtube/voice.md"
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "skill_md": "skills/yt-plan/SKILL.md",
+      "missing": "~/.claude/youtube/voice.md",
+      "resolved": "/data/data/com.termux/files/home/.claude/youtube/voice.md"
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "skill_md": "skills/yt-audit/SKILL.md",
+      "missing": "~/.claude/youtube/voice.md",
+      "resolved": "/data/data/com.termux/files/home/.claude/youtube/voice.md"
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "skill_md": "skills/yt-seo/SKILL.md",
+      "missing": "~/.claude/youtube/voice.md",
+      "resolved": "/data/data/com.termux/files/home/.claude/youtube/voice.md"
+    }
+  ]
+}

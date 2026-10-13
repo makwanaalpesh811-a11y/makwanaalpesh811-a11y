@@ -1,0 +1,64 @@
+{
+  "high": [],
+  "medium": [
+    {
+      "repo": "ai-image-gen-skill",
+      "file": "skills/ai-image-gen-termux/SKILL.md",
+      "line": 140,
+      "type": "curl_pipe_bash",
+      "context": "- **AWS CLI v2 install script requires glibc** \u2014 Termux uses bionic libc. `curl awscli | bash` will download but the res",
+      "note": "official installer"
+    },
+    {
+      "repo": "hermes-agent-skill",
+      "file": "skills/hermes-agent/SKILL.md",
+      "line": 49,
+      "type": "curl_pipe_bash",
+      "context": "curl -fsSL https://hermes-agent.nousresearch.com/install.sh | bash",
+      "note": "official installer"
+    },
+    {
+      "repo": "hermes-agent-skill",
+      "file": "skills/computer-use/SKILL.md",
+      "line": 287,
+      "type": "curl_pipe_bash",
+      "context": "| `blocked pattern in type text` | You tried to `type` a shell command matching the dangerous-pattern block list (`curl ",
+      "note": "official installer"
+    },
+    {
+      "repo": "notion-skill",
+      "file": "skills/notion/SKILL.md",
+      "line": 39,
+      "type": "curl_pipe_bash",
+      "context": "curl -fsSL https://ntn.dev | bash",
+      "note": "official installer"
+    },
+    {
+      "repo": "x-agent-skill",
+      "file": "skills/xurl/SKILL.md",
+      "line": 59,
+      "type": "curl_pipe_bash",
+      "context": "curl -fsSL https://raw.githubusercontent.com/xdevplatform/xurl/main/install.sh | bash",
+      "note": "official installer"
+    }
+  ],
+  "low": [
+    {
+      "repo": "github-skill",
+      "file": "skills/requesting-code-review/SKILL.md",
+      "line": 59,
+      "type": "shell_true",
+      "context": "git diff --cached | grep \"^+\" | grep -E \"os\\.system\\(|subprocess.*shell=True\""
+    }
+  ],
+  "false_positives": [
+    {
+      "repo": "telegram-bot-skill",
+      "file": "skills/telegram-standalone-bot/SKILL.md",
+      "line": 30,
+      "type": "telegram_bot",
+      "context": "Ask user to message the token directly (not a screenshot \u2014 BotFather masks with asterisks after copy). The token is ~46 ",
+      "matched": "1234567890:AAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    }
+  ]
+}

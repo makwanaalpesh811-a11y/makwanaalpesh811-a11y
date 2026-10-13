@@ -1,0 +1,1803 @@
+{
+  "total": 118,
+  "valid_fm": 118,
+  "invalid_fm": 0,
+  "missing_required": 0,
+  "missing_recommended": 32,
+  "missing_sections": 118,
+  "issues": [
+    {
+      "repo": "ai-image-gen-skill",
+      "file": "skills/ai-image-gen-termux/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "ai-image-gen-skill",
+      "file": "skills/ai-image-gen-termux/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "ai-image-gen-skill",
+      "file": "skills/mobile-ai-via-colab/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "ai-image-gen-skill",
+      "file": "skills/mobile-ai-via-colab/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "ai-image-gen-skill",
+      "file": "skills/image-search-mcp/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "author",
+        "platforms",
+        "license"
+      ]
+    },
+    {
+      "repo": "ai-image-gen-skill",
+      "file": "skills/image-search-mcp/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "ai-image-gen-skill",
+      "file": "skills/gif-search/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "apple-skill",
+      "file": "skills/apple-notes/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "apple-skill",
+      "file": "skills/apple-reminders/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "apple-skill",
+      "file": "skills/findmy/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "apple-skill",
+      "file": "skills/imessage/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "audio-tools-skill",
+      "file": "skills/songsee/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Usage",
+        "## Troubleshooting",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "aws-free-tier-skill",
+      "file": "skills/aws-bedrock-free-tier/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "author",
+        "platforms",
+        "license"
+      ]
+    },
+    {
+      "repo": "aws-free-tier-skill",
+      "file": "skills/aws-bedrock-free-tier/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "aws-free-tier-skill",
+      "file": "skills/aws-free-ai-access/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "author",
+        "platforms",
+        "license"
+      ]
+    },
+    {
+      "repo": "aws-free-tier-skill",
+      "file": "skills/aws-free-ai-access/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "aws-free-tier-skill",
+      "file": "skills/aws-free-tier/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "aws-free-tier-skill",
+      "file": "skills/aws-free-tier/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "claude-code-skill",
+      "file": "skills/claude-code/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Usage",
+        "## Troubleshooting",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "codex-skill",
+      "file": "skills/codex/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "creative-design-skill",
+      "file": "skills/architecture-diagram/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "creative-design-skill",
+      "file": "skills/ascii-video/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "creative-design-skill",
+      "file": "skills/baoyu-infographic/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "creative-design-skill",
+      "file": "skills/claude-design/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "creative-design-skill",
+      "file": "skills/design-md/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "creative-design-skill",
+      "file": "skills/humanizer/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "creative-design-skill",
+      "file": "skills/manim-video/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "creative-design-skill",
+      "file": "skills/p5js/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "creative-design-skill",
+      "file": "skills/popular-web-designs/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "creative-design-skill",
+      "file": "skills/songwriting-and-ai-music/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/delta-live-order-execution/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/delta-live-order-execution/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/delta-market-refresh-rules/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/delta-market-refresh-rules/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/delta-mcp-india-readonly/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/delta-mcp-india-readonly/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/paper-trade-simulator/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/paper-trade-simulator/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/signal-bot-matplotlib/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/signal-bot-matplotlib/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/tredalgo-signal-bot/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/tredalgo-signal-bot/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/stocks/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/stocks/delta-market-analysis/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/stocks/delta-market-analysis/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/hyperliquid/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/forex-news/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "author",
+        "platforms",
+        "license"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/forex-news/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/strategy-backtest-verify/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "author",
+        "platforms",
+        "license"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/strategy-backtest-verify/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/delta-tick-candles/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "author",
+        "platforms",
+        "license"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/delta-tick-candles/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/ema200-trendline-signal/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/ema200-trendline-signal/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/hermes-crypto-grid-backtest/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/mcp-public-market-setup/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "delta-trading-skill",
+      "file": "skills/mcp-public-market-setup/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "document-tools-skill",
+      "file": "skills/docx/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "document-tools-skill",
+      "file": "skills/pdf/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "document-tools-skill",
+      "file": "skills/powerpoint/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "document-tools-skill",
+      "file": "skills/xlsx/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "document-tools-skill",
+      "file": "skills/document-to-action-items/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "document-tools-skill",
+      "file": "skills/meeting-action-items/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "document-tools-skill",
+      "file": "skills/excel-author/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "document-tools-skill",
+      "file": "skills/pdf-read-ocr/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "document-tools-skill",
+      "file": "skills/pdf-read-ocr/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Usage",
+        "## Troubleshooting",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "document-tools-skill",
+      "file": "skills/teams-meeting-pipeline/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "education-skill",
+      "file": "skills/teacher-mode/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "education-skill",
+      "file": "skills/teacher-mode/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "email-skill",
+      "file": "skills/email-inbox-triage/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "email-skill",
+      "file": "skills/himalaya/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Usage",
+        "## Troubleshooting",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "github-skill",
+      "file": "skills/github/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "github-skill",
+      "file": "skills/codebase-inspection/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "github-skill",
+      "file": "skills/dogfood/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Usage",
+        "## Troubleshooting",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "github-skill",
+      "file": "skills/node-inspect-debugger/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "github-skill",
+      "file": "skills/python-debugpy/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "github-skill",
+      "file": "skills/requesting-code-review/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "github-skill",
+      "file": "skills/simplify-code/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "github-skill",
+      "file": "skills/spike/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "github-skill",
+      "file": "skills/systematic-debugging/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "github-skill",
+      "file": "skills/test-driven-development/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "google-workspace-skill",
+      "file": "skills/google-workspace/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Prerequisites",
+        "## Limitations",
+        "## When to use",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "hermes-agent-skill",
+      "file": "skills/hermes-agent/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "hermes-agent-skill",
+      "file": "skills/hermes-agent-skill-authoring/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "hermes-agent-skill",
+      "file": "skills/port-external-skills/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "hermes-agent-skill",
+      "file": "skills/computer-use/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "file": "skills/instagram-auto-upload/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "file": "skills/ig-audit/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "file": "skills/ig-caption/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "file": "skills/ig-carousel/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "file": "skills/ig-comment/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "file": "skills/ig-dm/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "file": "skills/ig-hashtag-strategist/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "file": "skills/ig-hook-extractor/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "file": "skills/ig-human/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "file": "skills/ig-plan/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "file": "skills/ig-profile/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "file": "skills/ig-reel/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "file": "skills/ig-reply/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "file": "skills/ig-repurpose/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "file": "skills/ig-story/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "instagram-agent-skill",
+      "file": "skills/ig-viral/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "maps-skill",
+      "file": "skills/maps/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "notion-skill",
+      "file": "skills/notion/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "obsidian-skill",
+      "file": "skills/obsidian/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "opencode-skill",
+      "file": "skills/opencode/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "reddit-agent-skill",
+      "file": "skills/reddit-reading/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "research-skill",
+      "file": "skills/arxiv/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "research-skill",
+      "file": "skills/competitor-news-monitor/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "research-skill",
+      "file": "skills/grounded-citations/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "research-skill",
+      "file": "skills/llm-wiki/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "research-skill",
+      "file": "skills/rss-feeds/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "research-skill",
+      "file": "skills/blocked-page-recovery/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "telegram-bot-skill",
+      "file": "skills/telegram-gateway-setup/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "telegram-bot-skill",
+      "file": "skills/telegram-standalone-bot/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "telegram-bot-skill",
+      "file": "skills/telegram-standalone-bot/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## Usage",
+        "## Troubleshooting",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "video-localization-skill",
+      "file": "skills/video-localization/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "video-localization-skill",
+      "file": "skills/video-localization/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "video-localization-skill",
+      "file": "skills/hindi-video-dub/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "video-localization-skill",
+      "file": "skills/hindi-video-dub/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "video-localization-skill",
+      "file": "skills/anime-vlog-workflow/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "video-localization-skill",
+      "file": "skills/anime-vlog-workflow/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "video-localization-skill",
+      "file": "skills/hindivlog-gen/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "video-localization-skill",
+      "file": "skills/hindivlog-gen/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "x-agent-skill",
+      "file": "skills/xurl/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Usage",
+        "## Prerequisites",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "file": "skills/youtube-content/youtube-colab-oauth/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "file": "skills/youtube-content/youtube-colab-oauth/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Troubleshooting",
+        "## Limitations",
+        "## Usage",
+        "## Examples"
+      ]
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "file": "skills/youtube-content-pipeline/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "file": "skills/youtube-content-pipeline/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "file": "skills/youtube-full-access/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "file": "skills/youtube-full-access/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "file": "skills/youtube-strategy-analysis/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "file": "skills/youtube-strategy-analysis/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "file": "skills/yt-chapters/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "file": "skills/yt-comment/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "file": "skills/yt-edit/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "file": "skills/yt-package/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "file": "skills/yt-plan/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "file": "skills/yt-retention/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "file": "skills/yt-shorts/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "file": "skills/yt-viral/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "file": "skills/yt-audit/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "file": "skills/yt-seo/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "youtube-agent-skill",
+      "file": "skills/yt-script/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "youtube-trading-skill",
+      "file": "skills/youtube-trading/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "version",
+        "author",
+        "license",
+        "platforms"
+      ]
+    },
+    {
+      "repo": "youtube-trading-skill",
+      "file": "skills/youtube-trading/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "youtube-trading-skill",
+      "file": "skills/youtube-trading-strategy/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "author",
+        "platforms",
+        "license"
+      ]
+    },
+    {
+      "repo": "youtube-trading-skill",
+      "file": "skills/youtube-trading-strategy/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    },
+    {
+      "repo": "youtube-trading-skill",
+      "file": "skills/youtube-trading-workflow/SKILL.md",
+      "issue": "missing_recommended_fm",
+      "missing": [
+        "author",
+        "platforms",
+        "license"
+      ]
+    },
+    {
+      "repo": "youtube-trading-skill",
+      "file": "skills/youtube-trading-workflow/SKILL.md",
+      "issue": "missing_sections",
+      "missing": [
+        "## Limitations",
+        "## When to use",
+        "## Prerequisites",
+        "## Usage",
+        "## Examples",
+        "## Troubleshooting"
+      ]
+    }
+  ]
+}
