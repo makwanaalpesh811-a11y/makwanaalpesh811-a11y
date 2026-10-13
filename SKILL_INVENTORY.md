@@ -1,7 +1,7 @@
 # Skill Inventory
 
 **Date:** 2026-10-13
-**Total skills:** 118 across 27 local repos (32 total on GitHub)
+**Total skills:** 118 across 27 local repos (29 total on GitHub)
 
 ---
 

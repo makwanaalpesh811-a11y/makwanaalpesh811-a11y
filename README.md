@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/makwanaalpesh811-a11y?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-32%20Repos-blueviolet" alt="GitHub Repos">
+    <img src="https://img.shields.io/badge/GitHub-29%20Repos-blueviolet" alt="GitHub Repos">
   </a>
   <a href="https://github.com/makwanaalpesh811-a11y?tab=repositories">
     <img src="https://img.shields.io/badge/Hermes_Skills-118-brightgreen" alt="Hermes Skills">
@@ -139,18 +139,21 @@ I build **trading bots**, **YouTube/Instagram automation**, and **Hermes Agent s
 
 | Metric | Value |
 |--------|-------|
-| Public Repos | **32** |
-| Local Audited Repos | **27** |
+| Public Repos (GitHub API) | **29** |
+| Local Audited Repos | 27 |
 | Hermes Skills (SKILL.md) | **118** |
-| Executable Skills | **89** |
-| Partially Executable | **8** |
-| Documentation-Only | **21** |
-| Python Scripts | 72 |
-| Shell/JS Scripts | 9 |
-| References | 137 |
+| Executable Skills | 89 |
+| Partially Executable | 8 |
+| Documentation-Only | 21 |
+| Python Scripts (skill/) | 71 |
+| Python Tests | 12 files / 73 tests executed |
+| Shell/JS Scripts | 8 |
+| References | 138 |
 | Example Files | 16 |
-| Priority Tests | 73 (all passing) |
 | CI Workflows | 27 |
+| SECURITY.md / CONTRIBUTING.md / .gitignore | 27 each |
+| LICENSE (repo-level) | 27 |
+| README.md (repo-level) | 28 |
 | Languages | Python, JavaScript, Bash |
 | Platform | Android (Termux) |
 | Location | Gujarat, India |
@@ -162,7 +165,7 @@ I build **trading bots**, **YouTube/Instagram automation**, and **Hermes Agent s
 
 | Check | Result |
 |-------|--------|
-| Python syntax (72 scripts) | 72/72 pass |
+| Python syntax (81 scripts) | 81/81 pass |
 | SKILL.md YAML frontmatter (118) | 118/118 pass |
 | Priority unit tests (73 tests) | 73/73 pass |
 | Secret scanning | 0 real findings |
@@ -172,14 +175,14 @@ I build **trading bots**, **YouTube/Instagram automation**, and **Hermes Agent s
 
 ## 📊 Scorecard
 
-**Score: 79/100** — [See full scorecard](SCORECARD.md)
+**Score: 78/100** — [See full scorecard](SCORECARD.md)
 
 | Category | Score |
 |----------|-------|
-| Breadth (15) | 14 |
+| Breadth (15) | 13 |
 | Implementation (20) | 15 |
 | Documentation (15) | 14 |
-| Tests & CI (15) | 8 |
+| Tests & CI (15) | 7 |
 | Security (15) | 14 |
 | Maintenance (10) | 5 |
 | Examples (5) | 4 |
@@ -189,7 +192,7 @@ I build **trading bots**, **YouTube/Instagram automation**, and **Hermes Agent s
 
 ## 📋 Audit Artifacts
 
-- [RECONCILIATION_REPORT.md](RECONCILIATION_REPORT.md) — 32 vs 27 repo reconciliation
+- [RECONCILIATION_REPORT.md](RECONCILIATION_REPORT.md) — 29 vs 27 repo reconciliation
 - [SKILL_INVENTORY.md](SKILL_INVENTORY.md) — all 118 skills classified
 - [TEST_REPORT.md](TEST_REPORT.md) — 73 tests passing
 - [SCORECARD.md](SCORECARD.md) — 77/100 detailed

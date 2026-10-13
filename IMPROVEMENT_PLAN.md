@@ -7,35 +7,27 @@
 
 ## Current State
 
-**Score: 76/100** (see SCORECARD.md)
+**Score: 79/100** (see SCORECARD.md)
 
-Reaching 80+ requires improvements in **tests** (2 points) and **examples/usability** (2 points) at minimum.
+Reaching 80+ requires improvements in **tests** (adding to 3+ more repos) and **maintenance** (git tags, releases, CHANGELOG). See SCORECARD.md for exact gap analysis.
 
 ---
 
-## Short-Term Wins (1-3 hours each)
+## Short-Term Wins
 
 ### A. Add real pytest tests to non-priority repos (worth +3-5 pts in tests)
 
 Currently 73 tests cover 8 priority repos. Adding basic tests to:
 - `hermes-agent-skill` (10 skills, complex — needs real tests)
 - `aws-free-tier-skill` (has shell scripts)
-- `document-tools-skill` (already has tests, could add more)
 - `youtube-trading-skill` (documentation-only — can test structure only)
 
 **Effort:** 3-5 hours total
 **Risk:** Low — all mock-based
 
-### B. Add `examples/` folders to priority repos (worth +3-4 pts in examples)
+### B. ✅ DONE: Add `examples/` folders to priority repos
 
-Currently no `examples/` folders exist. Adding:
-- `delta-trading-skill/examples/` — sample grid backtest, trend signal
-- `youtube-agent-skill/examples/` — sample upload script, plan output
-- `instagram-agent-skill/examples/` — sample caption, hashtag output
-- `github-skill/examples/` — sample PR review, CI check
-
-**Effort:** 2-3 hours
-**Risk:** Low — clear copy-paste examples
+16 examples added to 8 priority repos: delta-trading-skill, algotest-backtester-mcp, document-tools-skill, github-skill, youtube-agent-skill, instagram-agent-skill, research-skill, creative-design-skill.
 
 ### C. Standardize SKILL.md sections (worth +2-3 pts in documentation)
 
@@ -49,18 +41,22 @@ Add missing sections to all 118 SKILL.md:
 **Risk:** Medium — could introduce errors in 118 files
 **Alternative:** Add to only 30 most-used skills first
 
-### D. Version frontmatter (worth +1 pt in maintenance)
+### D. ✅ DONE: Version frontmatter
 
-Add `version: 1.0.0` to 32 skills missing it.
+All 118 SKILL.md files now have `version: 1.0.0`, `author: Alpesh Makwana`, `license: MIT`, `platforms: [linux, macos]`.
 
-**Effort:** 30 min (bulk edit)
+### E. Add git tags, releases, CHANGELOG (worth +3-4 pts in maintenance)
+
+Currently 0 tags, 0 releases, 0 CHANGELOGs. Adding basic semver releases would give +3-4 in maintenance.
+
+**Effort:** 2-3 hours
 **Risk:** Low
 
 ---
 
 ## Medium-Term (1-2 days each)
 
-### E. Live API integration tests (worth +3 pts in tests)
+### F. Live API integration tests (worth +3 pts in tests)
 
 Add integration tests that:
 - Test against mock servers (not real APIs)
@@ -71,7 +67,7 @@ Add integration tests that:
 **Effort:** 1-2 days
 **Risk:** Medium — need mock server setup
 
-### F. Cross-repo integration tests (worth +2 pts in tests)
+### G. Cross-repo integration tests (worth +2 pts in tests)
 
 Add tests that verify:
 - delta-trading-skill + market-data work together
@@ -81,12 +77,12 @@ Add tests that verify:
 **Effort:** 1 day
 **Risk:** Low
 
-### G. Documentation consistency (worth +3 pts in docs)
+### H. Documentation consistency (worth +1 pt in docs)
 
-- Add badges to every repo README
+- Add badges to every repo README (done in profile)
 - Add `## Getting Started` section to all repos
 - Add troubleshooting section to top-level docs
-- Standardize `SECURITY.md` (already done) and add `CODE_OF_CONDUCT.md`
+- Add `CODE_OF_CONDUCT.md`
 
 **Effort:** 4-6 hours
 **Risk:** Low

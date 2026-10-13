@@ -916,7 +916,9 @@
     "ci_workflows": 0,
     "size_bytes": 4351026,
     "issues_count": 62,
-    "broken_links_count": 62
+    "broken_links_count": 62,
+    "public_repos": 29,
+    "local_repos": 27
   },
   "broken_links": [
     {
@@ -1291,5 +1293,30 @@
       "missing": "~/.claude/youtube/voice.md",
       "resolved": "/data/data/com.termux/files/home/.claude/youtube/voice.md"
     }
-  ]
+  ],
+  "verified_counts": {
+    "public_repos_github_api": 29,
+    "local_audited_repos": 27,
+    "on_github_only": 2,
+    "skill_md_files": 118,
+    "python_skill_scripts": 71,
+    "python_test_scripts": 12,
+    "python_top_level_tools": 2,
+    "total_py_files": 81,
+    "shell_js_scripts": 8,
+    "references": 138,
+    "test_files": 12,
+    "priority_tests_executed": 73,
+    "example_files": 16,
+    "ci_workflows": 27,
+    "security_md": 27,
+    "contributing_md": 27,
+    "gitignore": 27,
+    "readme_repo_level": 28,
+    "license_repo_level": 27,
+    "license_nested": 5,
+    "license_total": 32
+  },
+  "source": "Live GitHub API + local filesystem scan",
+  "verified_date": "2026-10-13"
 }
