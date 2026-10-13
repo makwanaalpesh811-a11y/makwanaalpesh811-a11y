@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/GitHub-32%20Repos-blueviolet" alt="GitHub Repos">
   </a>
   <a href="https://github.com/makwanaalpesh811-a11y?tab=repositories">
-    <img src="https://img.shields.io/badge/Hermes_Skills-137%2B-brightgreen" alt="Hermes Skills">
+    <img src="https://img.shields.io/badge/Hermes_Skills-118-brightgreen" alt="Hermes Skills">
   </a>
   <a href="https://youtube.com/@AlpeshMakwana">
     <img src="https://img.shields.io/badge/YouTube-%40AlpeshMakwana-red" alt="YouTube">
@@ -140,11 +140,60 @@ I build **trading bots**, **YouTube/Instagram automation**, and **Hermes Agent s
 | Metric | Value |
 |--------|-------|
 | Public Repos | **32** |
-| Hermes Skills | **137+** |
+| Local Audited Repos | **27** |
+| Hermes Skills (SKILL.md) | **118** |
+| Executable Skills | **89** |
+| Partially Executable | **8** |
+| Documentation-Only | **21** |
+| Python Scripts | 72 |
+| Shell/JS Scripts | 9 |
+| References | 137 |
+| Example Files | 16 |
+| Priority Tests | 73 (all passing) |
+| CI Workflows | 27 |
 | Languages | Python, JavaScript, Bash |
 | Platform | Android (Termux) |
 | Location | Gujarat, India |
 | License | MIT |
+
+---
+
+## ✅ Testing Status
+
+| Check | Result |
+|-------|--------|
+| Python syntax (72 scripts) | 72/72 pass |
+| SKILL.md YAML frontmatter (118) | 118/118 pass |
+| Priority unit tests (73 tests) | 73/73 pass |
+| Secret scanning | 0 real findings |
+| Dangerous commands | 46 documented as official installers |
+
+**Details:** [TEST_REPORT.md](TEST_REPORT.md)
+
+## 📊 Scorecard
+
+**Score: 79/100** — [See full scorecard](SCORECARD.md)
+
+| Category | Score |
+|----------|-------|
+| Breadth (15) | 14 |
+| Implementation (20) | 15 |
+| Documentation (15) | 14 |
+| Tests & CI (15) | 8 |
+| Security (15) | 14 |
+| Maintenance (10) | 5 |
+| Examples (5) | 4 |
+| Open-source (5) | 5 |
+
+**Target: 80+** — see [IMPROVEMENT_PLAN.md](IMPROVEMENT_PLAN.md) for path forward.
+
+## 📋 Audit Artifacts
+
+- [RECONCILIATION_REPORT.md](RECONCILIATION_REPORT.md) — 32 vs 27 repo reconciliation
+- [SKILL_INVENTORY.md](SKILL_INVENTORY.md) — all 118 skills classified
+- [TEST_REPORT.md](TEST_REPORT.md) — 73 tests passing
+- [SCORECARD.md](SCORECARD.md) — 77/100 detailed
+- [IMPROVEMENT_PLAN.md](IMPROVEMENT_PLAN.md) — path to 80+
 
 ---
 
