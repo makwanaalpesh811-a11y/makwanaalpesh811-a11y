@@ -1,5 +1,78 @@
+# Secrets - NEVER commit
 .env
+.env.*
 *.env
+!*.env.example
+*.token
 *.key
 *.pem
 *.p12
+id_rsa*
+*credentials*
+
+# API tokens
+*_token.json
+*_token
+gh_token*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Termux
+*.apk
+*.aab
+__termux__*
+
+# Large data
+*.csv
+*.parquet
+*.db
+*.sqlite
+*.sqlite3
+!examples/*.csv
+
+# Archives
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+
+# Local logs
+*.log
+logs/
+
+# Local test artifacts
+.coverage
+.htmlcov/
+.pytest_cache/
+.tox/
+.mypy_cache/
+.ruff_cache/
