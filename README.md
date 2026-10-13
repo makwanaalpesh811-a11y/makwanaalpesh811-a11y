@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/makwanaalpesh811-a11y?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-15%20Repos-blueviolet" alt="GitHub Repos">
+    <img src="https://img.shields.io/badge/GitHub-32%20Repos-blueviolet" alt="GitHub Repos">
   </a>
-  <a href="https://github.com/makwanaalpesh811-a11y">
+  <a href="https://github.com/makwanaalpesh811-a11y?tab=repositories">
     <img src="https://img.shields.io/badge/Hermes_Skills-137%2B-brightgreen" alt="Hermes Skills">
   </a>
   <a href="https://youtube.com/@AlpeshMakwana">
@@ -76,20 +76,26 @@ I build **trading bots**, **YouTube/Instagram automation**, and **Hermes Agent s
 
 ---
 
-## ⚡ Featured Repos
+## ⚡ Featured Repos (by Category)
 
 ### 🎬 Content Automation
 | Repo | Skills | Description |
 |------|--------|-------------|
 | [youtube-agent-skill](https://github.com/makwanaalpesh811-a11y/youtube-agent-skill) | 16 | YouTube content creation, upload, strategy |
 | [instagram-agent-skill](https://github.com/makwanaalpesh811-a11y/instagram-agent-skill) | 16 | Instagram Reels, Posts, captions |
+| [youtube-trading-skill](https://github.com/makwanaalpesh811-a11y/youtube-trading-skill) | 3 | Trading strategy from YouTube |
+| [x-agent-skill](https://github.com/makwanaalpesh811-a11y/x-agent-skill) | 1 | X/Twitter via xurl CLI |
+| [reddit-agent-skill](https://github.com/makwanaalpesh811-a11y/reddit-agent-skill) | 1 | Read Reddit, search, threads |
 
 ### ⚡ Trading
 | Repo | Skills | Description |
 |------|--------|-------------|
 | [delta-trading-skill](https://github.com/makwanaalpesh811-a11y/delta-trading-skill) | 14 | Delta Exchange options trading |
-| [algotest-backtester-mcp](https://github.com/makwanaalpesh811-a11y/algotest-backtester-mcp) | — | AlgoTest MCP tool |
+| [algotest-backtester-mcp](https://github.com/makwanaalpesh811-a11y/algotest-backtester-mcp) | — | AlgoTest backtester MCP |
 | [market-data](https://github.com/makwanaalpesh811-a11y/market-data) | — | Market data utilities |
+| [Delta-exchange-bot](https://github.com/makwanaalpesh811-a11y/Delta-exchange-bot) | — | Live trading bot |
+| [Delta-exchange-bot-2](https://github.com/makwanaalpesh811-a11y/Delta-exchange-bot-2) | — | v2 trading bot |
+| [Delta-exchange-bot-3](https://github.com/makwanaalpesh811-a11y/Delta-exchange-bot-3) | — | v3 trading bot |
 
 ### 🤖 AI Agents
 | Repo | Skills | Description |
@@ -97,15 +103,35 @@ I build **trading bots**, **YouTube/Instagram automation**, and **Hermes Agent s
 | [hermes-agent-skill](https://github.com/makwanaalpesh811-a11y/hermes-agent-skill) | 4 | Hermes Agent configuration |
 | [claude-code-skill](https://github.com/makwanaalpesh811-a11y/claude-code-skill) | 1 | Claude Code CLI |
 | [codex-skill](https://github.com/makwanaalpesh811-a11y/codex-skill) | 1 | OpenAI Codex CLI |
+| [opencode-skill](https://github.com/makwanaalpesh811-a11y/opencode-skill) | 1 | OpenCode CLI |
 
-### 🛠️ Tools & Utilities
+### 🛠️ Dev & Tools
 | Repo | Skills | Description |
 |------|--------|-------------|
+| [github-skill](https://github.com/makwanaalpesh811-a11y/github-skill) | 10 | GitHub automation + debugging |
 | [aws-free-tier-skill](https://github.com/makwanaalpesh811-a11y/aws-free-tier-skill) | 3 | AWS Free Tier on Termux |
 | [telegram-bot-skill](https://github.com/makwanaalpesh811-a11y/telegram-bot-skill) | 2 | Telegram bot setup |
-| [video-localization-skill](https://github.com/makwanaalpesh811-a11y/video-localization-skill) | 4 | English to Hindi dubbing |
-| [document-tools-skill](https://github.com/makwanaalpesh811-a11y/document-tools-skill) | 9 | Word/PDF/PPTX/XLSX |
+| [video-localization-skill](https://github.com/makwanaalpesh811-a11y/video-localization-skill) | 4 | English → Hindi dubbing |
+| [document-tools-skill](https://github.com/makwanaalpesh811-a11y/document-tools-skill) | 9 | Word/PDF/PPTX/XLSX tools |
 | [research-skill](https://github.com/makwanaalpesh811-a11y/research-skill) | 6 | arXiv, RSS, citations |
+
+### 🎨 Creative
+| Repo | Skills | Description |
+|------|--------|-------------|
+| [creative-design-skill](https://github.com/makwanaalpesh811-a11y/creative-design-skill) | 10 | Architecture diagrams, manim, p5js |
+| [ai-image-gen-skill](https://github.com/makwanaalpesh811-a11y/ai-image-gen-skill) | 4 | AI image generation |
+| [audio-tools-skill](https://github.com/makwanaalpesh811-a11y/audio-tools-skill) | 1 | Spectrograms, MFCC features |
+
+### 📱 Apps & Services
+| Repo | Skills | Description |
+|------|--------|-------------|
+| [apple-skill](https://github.com/makwanaalpesh811-a11y/apple-skill) | 4 | Apple Notes, Reminders, FindMy |
+| [notion-skill](https://github.com/makwanaalpesh811-a11y/notion-skill) | 1 | Notion API + ntn CLI |
+| [google-workspace-skill](https://github.com/makwanaalpesh811-a11y/google-workspace-skill) | 1 | Gmail, Calendar, Drive |
+| [obsidian-skill](https://github.com/makwanaalpesh811-a11y/obsidian-skill) | 1 | Obsidian notes |
+| [email-skill](https://github.com/makwanaalpesh811-a11y/email-skill) | 2 | Email triage + Himalaya |
+| [maps-skill](https://github.com/makwanaalpesh811-a11y/maps-skill) | 1 | OSM/OSRM geocoding |
+| [education-skill](https://github.com/makwanaalpesh811-a11y/education-skill) | 1 | Teacher mode, CBSE |
 
 ---
 
@@ -113,11 +139,12 @@ I build **trading bots**, **YouTube/Instagram automation**, and **Hermes Agent s
 
 | Metric | Value |
 |--------|-------|
-| Public Repos | 31+ |
-| Hermes Skills | 137+ |
+| Public Repos | **32** |
+| Hermes Skills | **137+** |
 | Languages | Python, JavaScript, Bash |
 | Platform | Android (Termux) |
 | Location | Gujarat, India |
+| License | MIT |
 
 ---
 
